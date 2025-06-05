@@ -1,0 +1,10 @@
+[project]
+name = "machine-learning-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq>=0.26.0",
+    "phi>=0.6.7",
+]
